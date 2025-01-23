@@ -2,7 +2,7 @@
 
 ## Dalí je u povijesti zapamćen po svojim snažnim i bizarnim slikama te kao jedan od najpoznatijih predstavnika nadrealizma u slikarstvu, a mnogi stručnjaci smatraju da su na njegov stil utjecali renesansni majstori.
 
-![Slika 1](slike/slika.jpg)
+![Slika 1](slika.jpg)
 
 ```
 export class UserBookmark extends DurableObject {
