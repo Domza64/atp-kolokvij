@@ -28,3 +28,19 @@ export class UserBookmark extends DurableObject {
 | - | - | - |
 |Naziv|verzija|autor|
 |ATP kolokvij|1.0|Dominik Juricic|
+
+- [x] Kreirati GitHub repozitorij nazvan atp-kolokvij
+- [x] Dodati naslov projekta (H1)
+- [x] Dodati kratki opis projekta (H2) – preuzeti tekst s Wikipedije
+- [x] Dodati sliku – preuzeti s Unsplash ili Pexels
+- [x] Dodati primjer koda – preuzeti s Gists
+- [x] Dodati link na izvor slike i teksta
+- [ ] Linkati README.md i LICENSE.md (obostrano)
+- [ ] Napraviti popis (numerički i ne-numerički)
+- [x] Izraditi kratku tablicu s informacijama o projektu
+- [x] Napraviti commit promjena s odgovarajućom porukom
+- [ ] Otvoriti pull request unutar vlastitog repozitorija
+- [x] Dodati LICENSE.md datoteku s MIT licencom
+- [x] Aktivirati GitHub Pages za repozitorij
+
+[Licenca](LICENCE.md)
